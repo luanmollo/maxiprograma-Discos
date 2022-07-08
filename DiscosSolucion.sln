@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{BFC18533-49E1-423C-9DAC-187F73E7B595}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winform_discos", "frmDiscos\winform_discos.csproj", "{CF5F0B4A-9990-48E3-9FE0-85D724375692}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC18533-49E1-423C-9DAC-187F73E7B595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC18533-49E1-423C-9DAC-187F73E7B595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC18533-49E1-423C-9DAC-187F73E7B595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC18533-49E1-423C-9DAC-187F73E7B595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5F0B4A-9990-48E3-9FE0-85D724375692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5F0B4A-9990-48E3-9FE0-85D724375692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5F0B4A-9990-48E3-9FE0-85D724375692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5F0B4A-9990-48E3-9FE0-85D724375692}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F505288-E3CD-4007-A576-5ACA5934EDA9}
+	EndGlobalSection
+EndGlobal
